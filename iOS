@@ -1,5 +1,26 @@
 iOS app
 
+UIKit -- Framework
+
+*App's Life Cycle (app-based)
+  https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle
+  
+Responding to the Launch of Your App
+  https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app?language=objc
+  launch screen, 
+  
+Preparing Your UI to Run in the Background
+  https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background?language=objc
+  applicationWillResignActive
+  applicationDidEnterBackground
+  
+Preparing Your UI to Run in the Foreground
+  https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_foreground?language=objc
+  applicationWillEnterForeground
+  applicationDidBecomeActive
+
+*design: Human Interface Guidelines
+
 *to save file for your own app
   see: iOS Data Storage Guidelines
     https://developer.apple.com/icloud/documentation/data-storage/index.html
